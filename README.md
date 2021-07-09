@@ -1,4 +1,4 @@
 # Basic_Calculator
-This calculator is build using HTML, JS and CSS.
-This is basic calculator which can calculate mathematical expression.
-Theme of the calculator can be changed to dark and light.
+<h4>This calculator is build using HTML, JS and CSS.</h4>
+<h4>This is basic calculator which can calculate mathematical expression.</h4>
+<h4>Theme of the calculator can be changed to dark and light.</h4>
